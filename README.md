@@ -14,4 +14,4 @@ Funcționalitățile aplicației:
 10. Ordonare angajati dupa salariu.
 11. Afisare lista angajati.
 
-##Implementarea folosește concepte specifice programării orientate pe obiecte precum: atribute private și metode de acces publice, moștenire, abstractizare, agregare, clase, atribute si metode statice si final, overriding, validari care folosesc regex, upcasting si downcasting.
+##Implementarea folosește concepte specifice programării orientate pe obiecte precum: atribute private și metode de acces publice, moștenire, abstractizare, agregare, clase, atribute și metode static și final, overriding, validări care folosesc regex, upcasting și downcasting.
