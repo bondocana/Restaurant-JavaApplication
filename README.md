@@ -1,6 +1,6 @@
 # Restaurant-JavaApplication
 
-##Această aplicație a fost realizată în Java și are ca scop gestionarea angajaților dintr-un restaurant și primirea comenzilor de către clienți.
+## Această aplicație a fost realizată în Java și are ca scop gestionarea angajaților dintr-un restaurant și primirea comenzilor de către clienți.
 Funcționalitățile aplicației:
 1. Afisare meniul restaurantului.
 2. Adaugare in meniu.
@@ -14,4 +14,4 @@ Funcționalitățile aplicației:
 10. Ordonare angajati dupa salariu.
 11. Afisare lista angajati.
 
-##Implementarea folosește concepte specifice programării orientate pe obiecte precum: atribute private și metode de acces publice, moștenire, abstractizare, agregare, clase, atribute și metode static și final, overriding, validări care folosesc regex, upcasting și downcasting.
+## Implementarea folosește concepte specifice programării orientate pe obiecte precum: atribute private și metode de acces publice, moștenire, abstractizare, agregare, clase, atribute și metode static și final, overriding, validări care folosesc regex, upcasting și downcasting.
